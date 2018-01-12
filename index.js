@@ -28,7 +28,7 @@ app.get("/api/eth1/:id", (req, res) => {
         })
 })
 
-const port = process.env.PORT_ETH || 8101
+const port = process.env.PORT_ETH || 8200
 
 app.listen(port, () => {
     console.log(`eth_svc listening on ${port}`)
