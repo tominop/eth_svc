@@ -1,7 +1,7 @@
 {
-    "name": "lmx_svc",
+    "name": "eth_svc",
     "version": "1.0.1",
-    "description": "limex_api microservices",
+    "description": "eth_api microservices",
     "main": "service.js",
     "scripts": {
         "test": "echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1",
@@ -9,11 +9,11 @@
     },
     "repository": {
         "type": "git",
-        "url": "tominop\\lmx_svc"
+        "url": "tominop\\eth_svc"
     },
     "keywords": [
         "ethereum",
-        "limex",
+        "eth",
         "balance",
         "Tx",
         "API",
